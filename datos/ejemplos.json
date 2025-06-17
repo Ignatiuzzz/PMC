@@ -1,0 +1,164 @@
+{
+    "intents": [
+        {
+            "tag": "estudiar",
+            "patterns": [
+                "recordar estudiar",
+                "no olvidar estudiar",
+                "tengo que estudiar",
+                "debo estudiar para el examen",
+                "repasar para la materia",
+                "estudiar a las 5",
+                "prepararme para el examen final",
+                "estudiar historia",
+                "recordar repasar química",
+                "no olvidar la materia de física"
+            ]
+        },
+        {
+            "tag": "reunion",
+            "patterns": [
+                "tengo reunión con el equipo",
+                "reunión a las 3 con el jefe",
+                "no olvidar reunión de trabajo",
+                "recordar la junta semanal",
+                "reunión importante mañana",
+                "asistir a la reunión del proyecto",
+                "reunión con clientes",
+                "cita para discutir avances",
+                "junta del departamento",
+                "agendar reunión de coordinación"
+            ]
+        },
+        {
+            "tag": "llamar",
+            "patterns": [
+                "llamar a mamá",
+                "recordar llamar a Juan",
+                "tengo que hacer una llamada",
+                "no olvidar llamar al doctor",
+                "llamar por teléfono a Ana",
+                "hacer llamada de seguimiento",
+                "llamar a la clínica",
+                "contactar al proveedor",
+                "hacer llamada importante",
+                "recordar comunicarme con Pedro"
+            ]
+        },
+        {
+            "tag": "examen",
+            "patterns": [
+                "recordar que tengo examen",
+                "no olvidar examen de física",
+                "tengo examen importante",
+                "examen final de matemáticas",
+                "prepararme para el examen oral",
+                "examen escrito mañana",
+                "no faltar al examen",
+                "recordar presentar evaluación",
+                "día del examen",
+                "estudiar para el examen de química"
+            ]
+        },
+        {
+            "tag": "vacunar mascota",
+            "patterns": [
+                "vacunar al perro",
+                "llevar al gato a vacunar",
+                "recordar vacunas del perrito",
+                "cita de vacunación del gato",
+                "no olvidar llevar mascota al veterinario",
+                "vacunas del cachorro",
+                "poner vacuna al gato",
+                "día de vacunas para mi perro",
+                "llevar al veterinario por vacunas",
+                "recordar vacunar al gato"
+            ]
+        },
+        {
+            "tag": "pasear perro",
+            "patterns": [
+                "sacar a pasear al perro",
+                "pasear con mi perro",
+                "caminar al perro en la tarde",
+                "sacar al perro en la mañana",
+                "no olvidar paseo del perro",
+                "recordar caminar con el perro",
+                "llevar al perro al parque",
+                "pasear al perro antes de dormir",
+                "pasear con mi mascota",
+                "paseo del perro programado"
+            ]
+        },
+        {
+            "tag": "comprar",
+            "patterns": [
+                "ir al supermercado",
+                "comprar leche y pan",
+                "hacer compras de la semana",
+                "recordar comprar comida",
+                "comprar útiles escolares",
+                "no olvidar lista de compras",
+                "hacer las compras en la tarde",
+                "ir de compras al centro",
+                "comprar medicina",
+                "comprar regalo para mamá"
+            ]
+        },
+        {
+            "tag": "cita médica",
+            "patterns": [
+                "cita con el médico",
+                "ir al doctor",
+                "consulta médica",
+                "tengo cita médica mañana",
+                "no olvidar consulta",
+                "revisión médica agendada",
+                "control médico",
+                "cita con el pediatra",
+                "ir al hospital a las 10",
+                "recordar cita médica"
+            ]
+        },
+        {
+            "tag": "entrenar",
+            "patterns": [
+                "ir al gimnasio",
+                "hacer ejercicio",
+                "entrenamiento diario",
+                "salir a correr",
+                "recordar entrenar",
+                "no olvidar rutina de ejercicios",
+                "hacer cardio",
+                "entrenar con pesas",
+                "sesión de entrenamiento",
+                "clase de spinning"
+            ]
+        },
+        {
+            "tag": "ir",
+            "patterns": [
+                "ir al supermercado",
+                "ir al cine el viernes",
+                "tengo que ir al médico",
+                "voy a ir al banco",
+                "quiero ir a la biblioteca"
+            ]
+        },
+        {
+            "tag": "cumpleaños",
+            "patterns": [
+                "cumpleaños de mamá",
+                "recordar cumpleaños de Luis",
+                "fiesta de cumpleaños hoy",
+                "no olvidar felicitar a Carla",
+                "cumple de mi hermano",
+                "comprar pastel para cumpleaños",
+                "saludar por cumpleaños",
+                "regalo de cumpleaños para Sofía",
+                "organizar cumpleaños",
+                "aniversario de cumpleaños de papá"
+            ]
+        }
+    ]
+}
