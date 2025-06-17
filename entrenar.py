@@ -2,7 +2,7 @@ from modelo_pnl import ModeloPNL
 
 if __name__ == "__main__":
     modelo = ModeloPNL()
-    modelo.entrenar("datos/ejemplos.json", epochs=15)
+    modelo.entrenar("datos/ejemplos.json", epochs=150)
     print("✅ Entrenamiento finalizado y modelo guardado.")
 
 
