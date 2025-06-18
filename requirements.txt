@@ -1,7 +1,0 @@
-flask
-flask-cors
-tensorflow-cpu==2.13.0
-numpy
-spacy
-dateparser
-parsedatetime
