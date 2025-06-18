@@ -1,9 +1,9 @@
 from flask import Flask, request, jsonify
-from flask_cors import CORS  # 👈 Importa esto
+from flask_cors import CORS
 from modelo_pnl import ModeloPNL
 
 app = Flask(__name__)
-CORS(app)  # 👈 Habilita CORS para todas las rutas
+CORS(app)
 
 modelo = ModeloPNL()
 
